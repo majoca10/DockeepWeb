@@ -1,0 +1,51 @@
+[
+  {
+    "name": "buscar",
+    "path": "/buscar",
+    "component": "C:\\\\Front_cabugy\\\\DOCKEEP WEB\\\\pages\\\\buscar.vue",
+    "chunkName": "pages/buscar",
+    "_name": "_5821ca76"
+  },
+  {
+    "name": "correspondencia",
+    "path": "/correspondencia",
+    "component": "C:\\\\Front_cabugy\\\\DOCKEEP WEB\\\\pages\\\\correspondencia.vue",
+    "chunkName": "pages/correspondencia",
+    "_name": "_e3b5be3c"
+  },
+  {
+    "name": "recuperarPassword",
+    "path": "/recuperarPassword",
+    "component": "C:\\\\Front_cabugy\\\\DOCKEEP WEB\\\\pages\\\\recuperarPassword.vue",
+    "chunkName": "pages/recuperarPassword",
+    "_name": "_3c6e89ba"
+  },
+  {
+    "name": "resetearPassword",
+    "path": "/resetearPassword",
+    "component": "C:\\\\Front_cabugy\\\\DOCKEEP WEB\\\\pages\\\\resetearPassword.vue",
+    "chunkName": "pages/resetearPassword",
+    "_name": "_600d3293"
+  },
+  {
+    "name": "rpasswordusuario",
+    "path": "/rpasswordusuario",
+    "component": "C:\\\\Front_cabugy\\\\DOCKEEP WEB\\\\pages\\\\rpasswordusuario.vue",
+    "chunkName": "pages/rpasswordusuario",
+    "_name": "_c3777d9c"
+  },
+  {
+    "name": "salir",
+    "path": "/salir",
+    "component": "C:\\\\Front_cabugy\\\\DOCKEEP WEB\\\\pages\\\\salir.vue",
+    "chunkName": "pages/salir",
+    "_name": "_524b20a6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Front_cabugy\\\\DOCKEEP WEB\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_205d6271"
+  }
+]
